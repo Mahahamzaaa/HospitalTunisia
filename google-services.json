@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "511916972322",
+    "firebase_url": "https://hopitaltunisie-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "hopitaltunisie",
+    "storage_bucket": "hopitaltunisie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511916972322:android:a49a6e09f4920793be2d7b",
+        "android_client_info": {
+          "package_name": "de.tekup.apphospital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511916972322-9ohn428e66bckkogk7974tq1508n5et6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxhxsJWgXxsKuEdB0sMk6-76SCMi5NzBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511916972322-9ohn428e66bckkogk7974tq1508n5et6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511916972322:android:79f947a1cc566538be2d7b",
+        "android_client_info": {
+          "package_name": "de.tekup.hopitaltunisie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511916972322-9ohn428e66bckkogk7974tq1508n5et6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxhxsJWgXxsKuEdB0sMk6-76SCMi5NzBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511916972322-9ohn428e66bckkogk7974tq1508n5et6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511916972322:android:f6bcc0d3684aa0eebe2d7b",
+        "android_client_info": {
+          "package_name": "de.tekup.hospitaltunisia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511916972322-9ohn428e66bckkogk7974tq1508n5et6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxhxsJWgXxsKuEdB0sMk6-76SCMi5NzBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511916972322-9ohn428e66bckkogk7974tq1508n5et6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511916972322:android:f89af2f340d9b3eebe2d7b",
+        "android_client_info": {
+          "package_name": "tekup.de.hopitaltunisia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511916972322-9ohn428e66bckkogk7974tq1508n5et6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxhxsJWgXxsKuEdB0sMk6-76SCMi5NzBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511916972322-9ohn428e66bckkogk7974tq1508n5et6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
